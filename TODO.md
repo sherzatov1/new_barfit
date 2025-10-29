@@ -1,0 +1,5 @@
+- [ ] Update mode_screen_logic.dart to use AppIcons.modeIcons for availableIcons
+- [ ] Update settings_screen.dart to use AppIcons.modeIcons and AppIcons.fromCodePoint for icon initialization
+- [ ] Update mode_tile.dart to use AppIcons.fromCodePoint for icon display
+- [ ] Test icon display in modes_screen, settings_screen, and one_screen
+- [ ] Ensure the blue card in one_screen shows icon and name for favorite mode
