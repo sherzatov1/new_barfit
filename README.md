@@ -1,18 +1,34 @@
-# new_barfit
+# BarFit — Tabata Timer & Fitness App 🏋️‍♂️
 
-A new Flutter project.
+Кроссплатформенное мобильное приложение для интервальных тренировок (Табата). Позволяет пользователям настраивать циклы работы и отдыха, отслеживать прогресс и тренироваться с комфортом.
 
-## Getting Started
+## ✨ Особенности
+* **Гибкий таймер:** Настройка времени подготовки, работы и отдыха.
+* **Управление состояниями:** Плавные переходы между этапами тренировки.
+* **Локальное хранение:** Сохранение последних настроек пользователя через `SharedPreferences`.
+* **Адаптивный UI:** Интерфейс корректно отображается на различных экранах Android.
 
-This project is a starting point for a Flutter application.
+## 🛠 Технологии
+* **Framework:** Flutter (Dart)
+* **State Management:** Provider / ChangeNotifier (укажи свой вариант)
+* **Storage:** SharedPreferences
+* **Assets:** Custom Fonts & Icons
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Скриншоты
+> *Здесь желательно добавить 2-3 скриншота или GIF работы приложения.*
+> Можно просто загрузить картинки в папку `screenshots` в репозитории и вставить ссылки здесь:
+> `![Screen1](screenshots/main_screen.png)`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Как запустить проект
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# new_barfit
-# new_barfit
+1. Убедитесь, что у вас установлен [Flutter SDK](https://docs.flutter.dev/get-started/install).
+2. Склонируйте репозиторий:
+   ```bash
+   
+   git clone [https://github.com/sherzatov1/new_barfit.git](https://github.com/serzatov1/new_barfit.git)
+   перейдите в папку
+   cd new_barfit
+   установите зависимости
+   flutter pub get
+   запустите 
+   flutter run
