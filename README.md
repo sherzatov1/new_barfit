@@ -15,18 +15,14 @@
 * **Assets:** Custom Fonts & Icons
 
 
-## 🚀 Как запустить проект
-
-1. Убедитесь, что у вас установлен [Flutter SDK](https://docs.flutter.dev/get-started/install).
-2. Склонируйте репозиторий:
-   ```bash
-   
- git clone [https://github.com/sherzatov1/new_barfit.git](https://github.com/serzatov1/new_barfit.git)
-перейдите в папку
+🚀 Как запустить проект
+1. Клонировать репозиторий
+git clone https://github.com/sherzatov1/finance_app.git
+2. Перейти в папку проекта
 cd new_barfit
-установите зависимости
+3. Установить зависимости
 flutter pub get
-запустите 
+4. Запустить приложение
 flutter run
 
 📌 Примечание
