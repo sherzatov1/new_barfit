@@ -21,10 +21,13 @@
 2. Склонируйте репозиторий:
    ```bash
    
-   git clone [https://github.com/sherzatov1/new_barfit.git](https://github.com/serzatov1/new_barfit.git)
-   перейдите в папку
-   cd new_barfit
-   установите зависимости
-   flutter pub get
-   запустите 
-   flutter run
+ git clone [https://github.com/sherzatov1/new_barfit.git](https://github.com/serzatov1/new_barfit.git)
+перейдите в папку
+cd new_barfit
+установите зависимости
+flutter pub get
+запустите 
+flutter run
+
+📌 Примечание
+Это был мой первый проект который хотел реализовать без знаний архитекутры и правил в написаний кодинга (извлек урок)
